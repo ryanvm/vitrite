@@ -1,0 +1,28 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VitriDLL", "VitriDLL\VitriDLL.vcproj", "{4C1497F1-5FAA-451D-B69A-527234FF1A09}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vitrite", "Vitrite.vcproj", "{07D99C74-25AB-482D-80B4-63A1FA084B07}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+		{07D99C74-25AB-482D-80B4-63A1FA084B07}.0 = {4C1497F1-5FAA-451D-B69A-527234FF1A09}
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{4C1497F1-5FAA-451D-B69A-527234FF1A09}.Debug.ActiveCfg = Debug|Win32
+		{4C1497F1-5FAA-451D-B69A-527234FF1A09}.Debug.Build.0 = Debug|Win32
+		{4C1497F1-5FAA-451D-B69A-527234FF1A09}.Release.ActiveCfg = Release|Win32
+		{4C1497F1-5FAA-451D-B69A-527234FF1A09}.Release.Build.0 = Release|Win32
+		{07D99C74-25AB-482D-80B4-63A1FA084B07}.Debug.ActiveCfg = Debug|Win32
+		{07D99C74-25AB-482D-80B4-63A1FA084B07}.Debug.Build.0 = Debug|Win32
+		{07D99C74-25AB-482D-80B4-63A1FA084B07}.Release.ActiveCfg = Release|Win32
+		{07D99C74-25AB-482D-80B4-63A1FA084B07}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
