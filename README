@@ -1,0 +1,9 @@
+About
+-------------
+Vitrite is a small Windows utility that allows you to manually adjust the level of transparency for almost any visible window. It does this by utilizing a capability present in Windows for variable window transparency.
+
+Source Code
+-------------
+Since Vitrite is licensed under the GPL, the source code is also freely available. Vitrite was written in C and originally developed in Microsoft Visual Studio 6.0. However, because I am an addict of all things new and shiny (that's why I wrote Vitrite), I have since upgraded to Visual Studio .NET. The source code will therefore be available as a MS Visual Studio .NET solution. This does not mean that Vitrite uses Microsoft's .NET framework - it doesn't, Vitrite was written entirely in pure C.
+
+
